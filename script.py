@@ -149,6 +149,8 @@ def funkce2():
 
     print(f"Min_X = {min_x}\nMax_X = {max_x}\nMin_Y = {min_y}\nMax_Y = {max_y}")
 
-
+    
+funkce1()
+funkce2()
 
 
